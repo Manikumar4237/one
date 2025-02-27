@@ -56,7 +56,8 @@
     <form id="contact-form">
       <input type="text" id="name" placeholder="Your Name" required>
       <input type="email" id="email" placeholder="Your Email" required>
-        <input type="email" id="email" placeholder="Your surname" required>
+      <input type="email" id="email" placeholder="Your surname" required>
+      <input type="email" id="email" placeholder="Your area" required>
       <input type="email" id="email" placeholder="Your Email" required>
       <textarea id="message" placeholder="Your Message" required></textarea>
       <button type="submit">Send Message</button>
